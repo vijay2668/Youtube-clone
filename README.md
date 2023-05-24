@@ -1,4 +1,4 @@
-Deployed Website is live on (https://youtube-clone2668.netlify.app).
+Deployed Website is live on https://youtube-clone2668.netlify.app.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
